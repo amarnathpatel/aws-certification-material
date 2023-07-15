@@ -1,0 +1,12 @@
+Date-9-2023
+-----------
+
+For Aurora , multi AZ readable copies are present  by deault .. 15 max replicas, 6 default replicas
+Dynamo DB - single digit milli second  latency
+ElastiCache -  sub mili second latnecy 
+
+https://docs.aws.amazon.com/general/latest/gr/ddb.html
+
+Amazon EventBridge
+RDS - ms latency 
+DAx - micro second latnecy

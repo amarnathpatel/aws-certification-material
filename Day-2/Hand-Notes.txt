@@ -1,0 +1,8 @@
+Date- 07-Feb
+
+Importnat - Roles can not be assumed by group
+=========
+
+NACL - Subnets level -- this is stateless 
+Security Group- Instance level.. this is stateful
+Default nature of Securitygroup - Deny all inbound traffic (menion in table as Allow if need to allow)

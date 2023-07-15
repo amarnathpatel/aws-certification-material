@@ -1,0 +1,9 @@
+10-Feb-2023
+==========
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_MySQL.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Concepts.VersionMgmt.html
+https://aws.amazon.com/rds/mysql/faqs/
+https://aws.amazon.com/rds/mysql/customers/?pg=c&loc=2
+https://aws.amazon.com/privatelink/pricing/
+https://aws.amazon.com/blogs/architecture/choosing-your-vpc-endpoint-strategy-for-amazon-s3/

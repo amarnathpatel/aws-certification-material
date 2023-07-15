@@ -1,0 +1,8 @@
+Date 8-Feb-2023
+==========
+
+http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html
+
+https://aws.amazon.com/s3/pricing/?nc=sn&loc=4
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-best-practices.html
